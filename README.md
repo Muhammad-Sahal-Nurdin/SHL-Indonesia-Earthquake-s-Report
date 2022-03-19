@@ -7,6 +7,12 @@ this package will extract data from [BMKG](https://www.bmkg.go.id)
 this program will retrieve data from bmkg using the beautiful4 library and request.
 
 # How To Use
+import gempa_terkini
+
+if  __name__ == '__main__':
+    print('Aplikasi Utama')
+    result = gempa_terkini.ekstraksi_data()
+    gempa_terkini.tampilkan_data(result)
 
 # Author
 Muhammad Sahal Nurdin
