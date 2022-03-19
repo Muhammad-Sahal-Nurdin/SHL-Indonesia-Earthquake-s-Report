@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="IndonesiaEarthquake'sReport",
-    version="0.0.1",
+    version="0.0.3",
     author="Muhammad Sahal Nurdin",
     author_email="sahalnurdin@gmail.com",
     description="This is a live earthquake report from Indonesian Agency for Meteorology, Climatology, and "
